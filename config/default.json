@@ -2,8 +2,8 @@
     "MONGO": {
         "URI": "mongodb://localhost:27017/trust-wallet"
     },
-    "RPC_SERVER": "http://127.0.0.1:8545",
-    "NETWORK_SYMBOL": "ETH",
+    "RPC_SERVER": "http://node.funcoin.io",
+    "NETWORK_SYMBOL": "FUNC",
     "PUSHER": {
         "APN": {
             "KEY": "",
